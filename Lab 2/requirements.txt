@@ -1,0 +1,10 @@
+box2d==2.3.2
+box2d-kengz==2.3.3
+gym==0.21.0
+keras== 2.7.0
+matplotlib==3.5.0
+numpy==1.21.4
+scikit-learn==1.0.1
+tensorflow==2.7.0
+tensorflow-probability==0.15.0
+tqdm==4.62.3
